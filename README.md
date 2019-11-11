@@ -13,4 +13,4 @@
 
 This project was aimed at assessing drought climatologically over Sokoto State in Nigeria.
 
-Sokoto has a hot semi-arid climate (Köppen climate classification BSh). It is located in the dry Sahel surrounded by sandy savannah and isolated hills. From late October to February, during the 'cold season', the climate is dominated by the harmattan wind blowing Sahara dust over the land. 
+Sokoto has a hot semi-arid climate (Köppen climate classification BSh). It is located in the dry Sahel surrounded by sandy savannah and isolated hills. From late October to February, during the 'cold season', the climate is dominated by the harmattan wind blowing Sahara dust over the land. https://en.wikipedia.org/wiki/Sokoto
